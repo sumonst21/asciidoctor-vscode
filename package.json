@@ -635,10 +635,10 @@
 		"eslint-plugin-node": "11.1.0",
 		"eslint-plugin-promise": "6.1.1",
 		"font-awesome": "^4.7.0",
-		"gulp": "^4.0.2",
+		"gulp": "^5.0.0",
 		"lodash.throttle": "4.1.1",
 		"mathjax": "^2.7.9",
-		"mocha": "10.2.0",
+		"mocha": "10.8.2",
 		"mocha-junit-reporter": "2.2.1",
 		"mocha-multi-reporters": "1.5.1",
 		"path-browserify": "1.0.1",
@@ -647,7 +647,7 @@
 		"ts-loader": "9.4.4",
 		"typescript": "4.9.5",
 		"vscode-nls-dev": "4.0.4",
-		"webpack": "5.88.2",
+		"webpack": "5.98.0",
 		"webpack-cli": "4.10.0"
 	},
 	"dependencies": {
